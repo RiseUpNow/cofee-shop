@@ -15,7 +15,7 @@ IMPORTANT NOTE
 
 Currently, mock data (coffee) is loaded from  
 https://random-data-api.com/api/coffee/random_coffee?size=20.   
-Access to this site may be restricted from outside Russia (varies for different users).   
+Access to this site may be restricted from Russia (varies for different users).   
 ! Please run the project with a VPN enabled to avoid any blocking.   
 
 ![Preview](https://github.com/RiseUpNow/cofee-shop/raw/master/public/logo192.png)
