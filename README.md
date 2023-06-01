@@ -11,8 +11,9 @@ https://random-data-api.com/api/coffee/random_coffee?size=20.
 Coffee Shop - React (Material UI library) - one of my test tasks.
 
 IMPORTANT NOTE
-Currently, mock data (coffee) is loaded from https://random-data-api.com/api/coffee/random_coffee?size=20. Access to this site may be restricted from outside Russia (varies for different users).
+Currently, mock data (coffee) is loaded from 
+https://random-data-api.com/api/coffee/random_coffee?size=20. 
+Access to this site may be restricted from outside Russia (varies for different users).
 ! Please run the project with a VPN enabled to avoid any blocking.
 
-![Preview](https://github.com/{RiseUpNow}/{cofee-shop}/raw/{master}/{public/logo192.png})
-![Preview](https://github.com/RiseUpNow/ReactMaterialUI/blob/master/my-app/public/logo192.png)
+![Preview](https://github.com/RiseUpNow/cofee-shop/raw/master/public/logo192.png)
